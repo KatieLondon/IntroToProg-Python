@@ -1,0 +1,9 @@
+
+Grocery Shopping,  priority 1
+
+Laundry,  priority 2
+
+Walk the dog,  priority 3
+
+Pay Bills, priority 1
+water plants, 3
